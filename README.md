@@ -1,2 +1,2 @@
-# mob-zawjen
+# app-zawjen
 Zawjen.net mobile app
